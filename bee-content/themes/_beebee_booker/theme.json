@@ -1,0 +1,20 @@
+{
+    "id": "beebee_booker",
+    "vision": "1.0.210430",
+        "title": "爱书者",
+        "subtit": "支持云盘下载的原创图书借阅共享小程序主题。",
+        "desc": "6个内容栏目+自动合成封面+豆瓣读书数据导入+表情留言+分类关联+流量主广告+全局搜索+会员交互。支持跟随系统切换黑白风格。",
+        "crowd": "大学生、学校、企业、个人自媒体",
+        "miss": {
+            "MINI_PROGRAM_API_PLUGIN": {
+                "name": "Mini Program API",
+                "vision": "",
+                "url": "wp-mini-program",
+                "isinclude": true
+            }
+        },
+        "screenshot": "https://file.appbeebee.com/wp-content/uploads/2020/12/2020122714311949.jpg",
+        "viewqrcode": "",
+        "link": "https://booker.demo.appbeebee.com/",
+        "seturl": "1"
+    }
